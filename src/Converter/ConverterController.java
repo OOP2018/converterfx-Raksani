@@ -7,6 +7,7 @@ import javafx.scene.control.TextField;
 
 /**
  * UI controller for events and initializing components.
+ *
  * @author Raksani Khunamas.
  */
 public class ConverterController {
@@ -49,6 +50,7 @@ public class ConverterController {
 
     /**
      * To clear all the textfields and red border.
+     *
      * @param actionEvent
      */
     @FXML
